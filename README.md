@@ -88,4 +88,3 @@ The system is divided into several key components:
 - PostgreSQL with partitioning and replication setup
 - At least 16GB RAM
 - 50GB+ available disk space
-- API keys for X (Twitter), Instagram, and TikTok
